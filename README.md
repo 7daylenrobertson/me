@@ -1,3 +1,3 @@
 # React Website Portfolio
 Learned in tutorial and cloned dependacies by "dbarochiya"
-##### deployed app : https://7daylenrobertson.github.io/me/
+# Check out site here! : https://7daylenrobertson.github.io/react-portfolio/
